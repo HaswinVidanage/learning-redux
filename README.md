@@ -1,6 +1,6 @@
-# Boilerplate React App -v2
+# REDUX EXAMPLE
 
-This is a more complete boilerplate for react apps with scss support and karma testing.
+
 
 ## Getting Started
 
